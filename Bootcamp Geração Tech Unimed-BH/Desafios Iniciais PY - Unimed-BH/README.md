@@ -24,7 +24,7 @@ Abaixo estão os links para os desafios:
 					Código
 				</a>
 			</td>
-			<td align="center">⏳</td>
+			<td align="center">✔️</td>
 		</tr>
 		<tr>
 			<td align="center">2</td>
@@ -34,7 +34,7 @@ Abaixo estão os links para os desafios:
 					Código
 				</a>
 			</td>
-			<td align="center">⏳</td>
+			<td align="center">✔️</td>
 		</tr>
 		<tr>
 			<td align="center">3</td>
@@ -44,7 +44,7 @@ Abaixo estão os links para os desafios:
 					Código
 				</a>
 			</td>
-			<td align="center">⏳</td>
+			<td align="center">✔️</td>
 		</tr>
 	</table>
 </div>
