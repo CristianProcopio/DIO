@@ -20,7 +20,7 @@ Abaixo estão os links para os desafios:
 			<td align="center">1</td>
 			<td>As Duas Torres</td>
 			<td>
-				<a href="#">
+				<a href="https://github.com/CristianProcopio/DIO/blob/main/Bootcamp%20Gera%C3%A7%C3%A3o%20Tech%20Unimed-BH/Desafios%20Iniciais%20PY%20-%20Unimed-BH/As%20duas%20torres">
 					Código
 				</a>
 			</td>
@@ -30,7 +30,7 @@ Abaixo estão os links para os desafios:
 			<td align="center">2</td>
 			<td>Cachorros-Quentes</td>
 			<td>
-				<a href="#">
+				<a href="https://github.com/CristianProcopio/DIO/blob/main/Bootcamp%20Gera%C3%A7%C3%A3o%20Tech%20Unimed-BH/Desafios%20Iniciais%20PY%20-%20Unimed-BH/Cachorros-Quentes">
 					Código
 				</a>
 			</td>
@@ -40,7 +40,7 @@ Abaixo estão os links para os desafios:
 			<td align="center">3</td>
 			<td>Cálculo de viagem</td>
 			<td>
-				<a href="#">
+				<a href="https://github.com/CristianProcopio/DIO/blob/main/Bootcamp%20Gera%C3%A7%C3%A3o%20Tech%20Unimed-BH/Desafios%20Iniciais%20PY%20-%20Unimed-BH/C%C3%A1lculo%20de%20viagem">
 					Código
 				</a>
 			</td>
