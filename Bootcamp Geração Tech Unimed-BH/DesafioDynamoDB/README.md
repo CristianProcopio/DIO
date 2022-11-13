@@ -2,7 +2,7 @@
 
 ### **Arquitetura**
 
-![Alt text]("https://github.com/CristianProcopio/DIO/blob/main/Bootcamp%20Gera%C3%A7%C3%A3o%20Tech%20Unimed-BH/DesafioDynamoDB/Arquitetura.png")
+![Alt text](https://github.com/CristianProcopio/DIO/blob/main/Bootcamp%20Gera%C3%A7%C3%A3o%20Tech%20Unimed-BH/DesafioDynamoDB/Arquitetura.png)
 
 ### **Serviço utilizado**
   - Amazon DynamoDB
