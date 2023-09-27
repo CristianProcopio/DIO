@@ -1,3 +1,12 @@
+/*Projeto de Contagem de Números
+
+Este projeto é um programa simples em Java que ajuda a contar números entre dois valores que você escolhe. 
+Você só precisa digitar dois números e o programa fará o trabalho de contar e mostrar os números na tela. 
+Se você acidentalmente colocar o segundo número menor que o primeiro, o programa irá avisar que isso não 
+funciona e mostrará uma mensagem especial.*/ 
+
+
+
 import java.util.Scanner;
 
 class ParametrosInvalidosException extends Exception {
